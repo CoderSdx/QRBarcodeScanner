@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QRBarcodeScanner'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of QRBarcodeScanner.'
 
   s.description      = <<-DESC

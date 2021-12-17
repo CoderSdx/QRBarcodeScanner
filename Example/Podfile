@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QRBarcodeScanner_Example' do
+  pod 'QRBarcodeScanner', :path => '../'
+
+  target 'QRBarcodeScanner_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

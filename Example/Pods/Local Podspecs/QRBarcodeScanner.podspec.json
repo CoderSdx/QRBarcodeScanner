@@ -1,0 +1,22 @@
+{
+  "name": "QRBarcodeScanner",
+  "version": "0.1.0",
+  "summary": "A short description of QRBarcodeScanner.",
+  "description": "这就是个测试的，我也不知道写点啥，就这吧，好煎熬。。。。。。。。。。。。。。。。。。。。。。。。。",
+  "homepage": "https://github.com/CoderSdx/QRBarcodeScanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CoderSdx": "sundexiong@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/CoderSdx/QRBarcodeScanner.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "QRBarcodeScanner/Classes/**/*"
+}

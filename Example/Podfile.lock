@@ -1,0 +1,16 @@
+PODS:
+  - QRBarcodeScanner (0.1.0)
+
+DEPENDENCIES:
+  - QRBarcodeScanner (from `../`)
+
+EXTERNAL SOURCES:
+  QRBarcodeScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QRBarcodeScanner: 2c08582e3174a88f477b26e0412d09781b64b3a0
+
+PODFILE CHECKSUM: e1fc50c7f11bbd9178cc61338c3c0ea39332bc9d
+
+COCOAPODS: 1.11.2

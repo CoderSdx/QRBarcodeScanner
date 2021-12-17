@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import QRBarcodeScanner
 
 class ViewController: UIViewController {
 

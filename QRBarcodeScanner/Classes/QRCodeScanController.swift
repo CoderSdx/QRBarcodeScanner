@@ -65,7 +65,7 @@ public class QRCodeScanController: UIViewController, AVCaptureMetadataOutputObje
             this.session.startRunning()
         }
     }
-    internal func metadataOutput(_ output: AVCaptureMetadataOutput, didOutput metadataObjects: [AVMetadataObject], from connection: AVCaptureConnection) {
+    public func metadataOutput(_ output: AVCaptureMetadataOutput, didOutput metadataObjects: [AVMetadataObject], from connection: AVCaptureConnection) {
         for obj in metadataObjects where obj is AVMetadataMachineReadableCodeObject {
             print(obj)
             if let codeObject = obj as? AVMetadataMachineReadableCodeObject, let code = codeObject.stringValue {

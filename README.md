@@ -22,7 +22,7 @@ pod 'QRBarcodeScanner'
 
 ## Author
 
-dexiong, dexiong@staff.sina.com.cn
+CoderSdx, sundexiong@hotmail.com
 
 ## License
 
